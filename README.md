@@ -1,0 +1,2 @@
+# medina-quran-schedule
+.
